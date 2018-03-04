@@ -1,5 +1,5 @@
 # Multi-Layer-Perceptron
-### The python code implements a machine learning algorithm specifically
+### The python code implements a machine learning algorithm
     multi layer perceptron learning algorithm
 
 The code implements MLP algorithm for only one hidden layer.
